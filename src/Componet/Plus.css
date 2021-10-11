@@ -1,0 +1,19 @@
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: rgb(124, 31, 185);
+  box-shadow: 15px 10px 15px 10px black;
+  margin-top: 250px;
+}
+.btn {
+  width: 140px;
+  background-color: aqua;
+  font-size: larger;
+}
+.num {
+  font-size: 30px;
+}
